@@ -2,14 +2,16 @@
   <img src="https://user-images.githubusercontent.com/116191471/234678312-b4a5ee08-e0ef-4c4e-9fd9-6b08a16484bb.jpg" width="400" height="400" />
 </p>
 <span align="center">
+  
   <h3 style="text-align:center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25" /> im Shahram </h3>
+    
 </span>
     
 
 
 Languages                                                                                                                               
 --- 
-
+<span align="center">
 <br />
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,7 +31,10 @@ Languages
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br />
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShahramDevops&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</span>
 
 <!--
 <div id="badges">
