@@ -20,7 +20,7 @@ Languages
 
 ---                                                                                     
 
-- 📫 How to reach me: telegram => [DevOpsTeam](https://t.me/)
+- 📫 telegram => [DevOpsTeam](https://t.me/SshDevOpsTeam)
 
                                                                                                  
 <!--
