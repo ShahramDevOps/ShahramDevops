@@ -35,6 +35,13 @@ Languages
 
 </span>
 
+---
+
+![](https://komarev.com/ghpvc/?username=ShahramDevOps&color=green)
+
+
+
+
 <!--
 <div id="badges">
   <a href="your-linkedin-URL">
